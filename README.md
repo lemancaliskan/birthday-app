@@ -70,3 +70,6 @@ Contributions are what make the open-source community such an amazing place to l
 # Open a Pull Request
 ```
 
+## ⚖️ License
+
+This project is licensed under the MIT License. See the ``LICENSE`` file for more details.
