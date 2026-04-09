@@ -3,8 +3,8 @@
 *This project is an interactive, fun, and modern digital greeting card application designed to celebrate your loved ones' birthdays. 
 Users can "blow out" the candles on the cake (by hovering over them) to trigger a secret message and a confetti celebration.*
 
- <p align="center"><a href="https://nicebirthday.netlify.app">
-    <img src="https://img.shields.io/badge/Nice Birthday-800F2F?style=for-the-badge&logo=netlify&logoColor=white" height="55" align="center" alt="Netlify">
+ <p align="center"><a href="https://lemancaliskan.github.io/birthday-app/">
+    <img src="https://img.shields.io/badge/Nice Birthday-800F2F?style=for-the-badge&logo=github&logoColor=white" height="55" align="center" alt="Netlify">
 </a></p>
 
 ## 📺 Screenshots
@@ -30,7 +30,7 @@ Users can "blow out" the candles on the cake (by hovering over them) to trigger 
 ## 🚀 Live Demo (Web Version)
 
 You can now try the application directly in your browser without any installation:
-Go to the **[Nice Birthday](https://nicebirthday.netlify.app)**
+Go to the **[Nice Birthday](https://lemancaliskan.github.io/birthday-app/)**
 
 ## 🛠️ Installation and Usage
 
