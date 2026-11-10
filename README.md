@@ -9,8 +9,9 @@ Users can "blow out" the candles on the cake (by hovering over them) to trigger 
 
 ## 📺 Screenshots
 <p align="center">
-<img width="770" alt="image" src="https://github.com/user-attachments/assets/ad9044db-1092-4fd5-9b63-432459884188" />
-<img width="770" alt="image" src="https://github.com/user-attachments/assets/921ba935-688f-4c37-ba48-fbe631382761" />
+<img width="1306" height="652" alt="image" src="https://github.com/user-attachments/assets/0da080a5-eb24-44c6-8fa7-6d5238203bf1" />
+<img width="1306" height="652" alt="image" src="https://github.com/user-attachments/assets/32ace052-592f-4c2e-8695-f9332f292651" />
+
 </p>
 
 ## ✨ Features
